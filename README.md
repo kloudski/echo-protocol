@@ -28,4 +28,4 @@ Open [http://localhost:3000](http://localhost:3000) to see the demo.
 
 ---
 
-**OBARO LABS** // ECHO PROTOCOL ALPHA
+**ECHO PROTOCOL ALPHA**
